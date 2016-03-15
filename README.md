@@ -9,12 +9,21 @@ A reading list for what is being used by NWA for react/redux applications
 * http://redux.js.org/
 * [Video tutorial](https://egghead.io/series/getting-started-with-redux)
 * [Long written tutorial](http://teropa.info/blog/2015/09/10/full-stack-redux-tutorial.html#getting-data-in-from-redux-to-react)
-* 
+
 ### React-Toolbox (Material Design)
 * http://react-toolbox.com/
 
-## Webpack
-* (SurviveJS's webpack tutorial)[http://survivejs.com/webpack_react/webpack/]
+### Ramda (Functional version of underscore/lodash)
+* http://ramdajs.com/docs/
+
+### Webpack
+* [SurviveJS's webpack tutorial](http://survivejs.com/webpack_react/webpack/)
+
+### Smaller tools / features
+* [ES6 Quick Guide](http://es6-features.org/#Constants)
+* [autobind](https://github.com/cassiozen/React-autobind)
+* [fetch API](https://davidwalsh.name/fetch) [PolyFill (Safari Support)](https://github.com/github/fetch)
+* [Async/Await](https://thomashunter.name/blog/the-long-road-to-asyncawait-in-javascript/) [Indepth Guide](http://www.sitepoint.com/simplifying-asynchronous-coding-es7-async-functions/) [Another Guide](https://www.twilio.com/blog/2015/10/asyncawait-the-hero-javascript-deserved.html)
 
 ## Research
 ### Authentication
