@@ -29,6 +29,7 @@ A reading list for what is being used by NWA for react/redux applications
 ### Authentication
 * https://github.com/lynndylanhurley/redux-auth
 * https://github.com/joshgeller/react-redux-jwt-auth-example
+* https://auth0.com/blog/2016/01/04/secure-your-react-and-redux-app-with-jwt-authentication/
 
 ### Grid Layout
 * https://www.reddit.com/r/reactjs/comments/3nvocr/which_flexbox_grid_do_you_use_with_react/
