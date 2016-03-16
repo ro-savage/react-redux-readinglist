@@ -21,7 +21,6 @@ A reading list for what is being used by NWA for react/redux applications
 
 ### Testing
 * [Expect](https://github.com/mjackson/expect)
-* [ExpectJSX](https://github.com/algolia/expect-jsx)
 * [Enzyme](https://github.com/airbnb/enzyme)
 
 ### Smaller tools / features
