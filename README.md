@@ -19,6 +19,11 @@ A reading list for what is being used by NWA for react/redux applications
 ### Webpack
 * [SurviveJS's webpack tutorial](http://survivejs.com/webpack_react/webpack/)
 
+### Testing
+* [Expect](https://github.com/mjackson/expect)
+* [ExpectJSX](https://github.com/algolia/expect-jsx)
+* [Enzyme](https://github.com/airbnb/enzyme)
+
 ### Smaller tools / features
 * [ES6 Quick Guide](http://es6-features.org/#Constants)
 * [autobind](https://github.com/cassiozen/React-autobind)
