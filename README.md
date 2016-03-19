@@ -26,8 +26,8 @@ A reading list for what is being used by NWA for react/redux applications
 ### Smaller tools / features
 * [ES6 Quick Guide](http://es6-features.org/#Constants)
 * [autobind](https://github.com/cassiozen/React-autobind)
-* [fetch API](https://davidwalsh.name/fetch) [PolyFill (Safari Support)](https://github.com/github/fetch)
-* [Async/Await](https://thomashunter.name/blog/the-long-road-to-asyncawait-in-javascript/) [Indepth Guide](http://www.sitepoint.com/simplifying-asynchronous-coding-es7-async-functions/) [Another Guide](https://www.twilio.com/blog/2015/10/asyncawait-the-hero-javascript-deserved.html)
+* [fetch API](https://davidwalsh.name/fetch) | [PolyFill (Safari Support)](https://github.com/github/fetch)
+* [Async/Await](https://thomashunter.name/blog/the-long-road-to-asyncawait-in-javascript/)| [Indepth Guide](http://www.sitepoint.com/simplifying-asynchronous-coding-es7-async-functions/) | [Another Guide](https://www.twilio.com/blog/2015/10/asyncawait-the-hero-javascript-deserved.html)
 
 ## Research
 ### Authentication
@@ -53,3 +53,6 @@ A reading list for what is being used by NWA for react/redux applications
 * http://zippyui.com/react-datagrid/#/
 * http://griddlegriddle.github.io/Griddle/
 
+### Using github for scrom
+* https://waffle.io/
+* [Waffle CodeShip Slack Git](http://blog.waffle.io/collaborating-on-a-project-with-github-slack-codeship-houndci-and-waffle-io/)
