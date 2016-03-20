@@ -23,6 +23,11 @@ A reading list for what is being used by NWA for react/redux applications
 * [Expect](https://github.com/mjackson/expect)
 * [Enzyme](https://github.com/airbnb/enzyme)
 
+
+## Layouts
+* [Unsemantic](https://github.com/nathansmith/unsemantic) - Frame and minor layouts
+* [react-grid-layout](https://github.com/STRML/react-grid-layout) - Movable and resizable components
+
 ### Smaller tools / features
 * [ES6 Quick Guide](http://es6-features.org/#Constants)
 * [autobind](https://github.com/cassiozen/React-autobind)
@@ -34,6 +39,7 @@ A reading list for what is being used by NWA for react/redux applications
 * https://github.com/lynndylanhurley/redux-auth
 * https://github.com/joshgeller/react-redux-jwt-auth-example
 * https://auth0.com/blog/2016/01/04/secure-your-react-and-redux-app-with-jwt-authentication/
+* https://medium.com/@rajaraodv/securing-react-redux-apps-with-jwt-tokens-fcfe81356ea0#.q5t9dmjn2
 
 ### Grid Layout
 * https://www.reddit.com/r/reactjs/comments/3nvocr/which_flexbox_grid_do_you_use_with_react/
