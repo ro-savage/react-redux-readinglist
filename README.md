@@ -23,6 +23,7 @@ A reading list for what is being used by NWA for react/redux applications
 * [Expect](https://github.com/mjackson/expect)
 * [Enzyme](https://github.com/airbnb/enzyme)
 * [Mock-fetch - Mocking http calls](https://github.com/wheresrhys/fetch-mock)
+* [Redux-Mock-Store](https://github.com/arnaudbenard/redux-mock-store)
 
 
 ## Layouts
