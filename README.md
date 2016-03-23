@@ -10,6 +10,9 @@ A reading list for what is being used by NWA for react/redux applications
 * [Video tutorial](https://egghead.io/series/getting-started-with-redux)
 * [Long written tutorial](http://teropa.info/blog/2015/09/10/full-stack-redux-tutorial.html#getting-data-in-from-redux-to-react)
 
+### Immutability
+* Immutability middleware checker [redux-immutable-state-invariant](https://github.com/leoasis/redux-immutable-state-invariant)
+
 ### React-Toolbox (Material Design)
 * http://react-toolbox.com/
 
@@ -24,7 +27,6 @@ A reading list for what is being used by NWA for react/redux applications
 * [Enzyme](https://github.com/airbnb/enzyme)
 * [Mock-fetch - Mocking http calls](https://github.com/wheresrhys/fetch-mock)
 * [Redux-Mock-Store](https://github.com/arnaudbenard/redux-mock-store)
-
 
 ## Layouts
 * [Flexgrid](https://github.com/ro-savage/flexgrid)- Layout
