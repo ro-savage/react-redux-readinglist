@@ -22,10 +22,11 @@ A reading list for what is being used by NWA for react/redux applications
 ### Testing
 * [Expect](https://github.com/mjackson/expect)
 * [Enzyme](https://github.com/airbnb/enzyme)
+* [Mock-fetch - Mocking http calls](https://github.com/wheresrhys/fetch-mock)
 
 
 ## Layouts
-* [Unsemantic](https://github.com/nathansmith/unsemantic) - Frame and minor layouts
+* [Flexgrid](https://github.com/ro-savage/flexgrid)- Layout
 * [react-grid-layout](https://github.com/STRML/react-grid-layout) - Movable and resizable components
 
 ### Smaller tools / features
@@ -41,24 +42,6 @@ A reading list for what is being used by NWA for react/redux applications
 * https://auth0.com/blog/2016/01/04/secure-your-react-and-redux-app-with-jwt-authentication/
 * https://medium.com/@rajaraodv/securing-react-redux-apps-with-jwt-tokens-fcfe81356ea0#.q5t9dmjn2
 
-### Grid Layout
-* https://www.reddit.com/r/reactjs/comments/3nvocr/which_flexbox_grid_do_you_use_with_react/
-* https://github.com/jxnblk/reflexbox
-* https://github.com/callemall/material-ui/issues/190
-* http://flexboxgrid.com/
-* http://susy.oddbird.net/
-* https://github.com/at-import/Singularity
-* http://neat.bourbon.io/
-* https://github.com/STRML/react-grid-layout
-* http://unsemantic.com/
-* https://github.com/roylee0704/react-flexbox-grid
-* http://stackoverflow.com/questions/33671469/material-ui-and-grid-system
-* http://codepen.io/chriscoyier/pen/FAbpm
-
 ### Data tables
 * http://zippyui.com/react-datagrid/#/
 * http://griddlegriddle.github.io/Griddle/
-
-### Using github for scrom
-* https://waffle.io/
-* [Waffle CodeShip Slack Git](http://blog.waffle.io/collaborating-on-a-project-with-github-slack-codeship-houndci-and-waffle-io/)
