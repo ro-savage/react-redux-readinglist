@@ -9,6 +9,8 @@ A reading list for what is being used by NWA for react/redux applications
 * http://redux.js.org/
 * [Video tutorial](https://egghead.io/series/getting-started-with-redux)
 * [Long written tutorial](http://teropa.info/blog/2015/09/10/full-stack-redux-tutorial.html#getting-data-in-from-redux-to-react)
+* [Redux best practice](https://medium.com/lexical-labs-engineering/redux-best-practices-64d59775802e#.pn4100fyu)
+* [Redux lessons learned guide](https://tonyhb.gitbooks.io/redux-without-profanity/content/hard_and_fast_rules_for_apps.html)
 
 ### Immutability
 * Immutability middleware checker [redux-immutable-state-invariant](https://github.com/leoasis/redux-immutable-state-invariant)
@@ -37,6 +39,7 @@ A reading list for what is being used by NWA for react/redux applications
 * [autobind](https://github.com/cassiozen/React-autobind)
 * [fetch API](https://davidwalsh.name/fetch) | [PolyFill (Safari Support)](https://github.com/github/fetch)
 * [Async/Await](https://thomashunter.name/blog/the-long-road-to-asyncawait-in-javascript/)| [Indepth Guide](http://www.sitepoint.com/simplifying-asynchronous-coding-es7-async-functions/) | [Another Guide](https://www.twilio.com/blog/2015/10/asyncawait-the-hero-javascript-deserved.html)
+* [Reselect](https://github.com/reactjs/reselect) | [Redux reselect examples](http://redux.js.org/docs/recipes/ComputingDerivedData.html)
 
 ## Research
 ### Authentication
