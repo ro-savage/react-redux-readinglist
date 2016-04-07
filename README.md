@@ -4,6 +4,7 @@ A reading list for what is being used by NWA for react/redux applications
 ## In use
 ### React
 * https://facebook.github.io/react/
+* [React guide](https://css-tricks.com/learning-react-router/)
 
 ### Redux
 * http://redux.js.org/
