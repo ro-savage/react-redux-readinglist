@@ -41,7 +41,8 @@ A reading list for what is being used by NWA for react/redux applications
 * [fetch API](https://davidwalsh.name/fetch) | [PolyFill (Safari Support)](https://github.com/github/fetch)
 * [Async/Await](https://thomashunter.name/blog/the-long-road-to-asyncawait-in-javascript/)| [Indepth Guide](http://www.sitepoint.com/simplifying-asynchronous-coding-es7-async-functions/) | [Another Guide](https://www.twilio.com/blog/2015/10/asyncawait-the-hero-javascript-deserved.html)
 * [Reselect](https://github.com/reactjs/reselect) | [Redux reselect examples](http://redux.js.org/docs/recipes/ComputingDerivedData.html)
-
+## Fucntional programming
+* [Mostly adequate guide to functional programming](https://drboolean.gitbooks.io/mostly-adequate-guide/content/index.html)
 ## Research
 ### Authentication
 * https://github.com/lynndylanhurley/redux-auth
